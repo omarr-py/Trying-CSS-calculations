@@ -1,0 +1,7 @@
+/* 
+    content width is : 100%
+    n spaces => margin-left(right) percentage * n = percentage 
+    6 spaces => 1% * 6 = 6%
+    width of each column is  : 100% - 6% = 94% available space
+    The width of each width of the elements is : available space / n : 88 / 5 = 18.8
+*/
